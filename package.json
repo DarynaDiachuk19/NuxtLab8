@@ -8,5 +8,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "@nuxt/ui": "^3.0.2",
+    "@vueuse/core": "^13.1.0"
+  }
 }
